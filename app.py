@@ -16,4 +16,3 @@ else:
     print('Model exists. Starting server')
     server.start()
 
-    
