@@ -1,3 +1,5 @@
+print("test: train")
+
 import tensorflow as tf
 import keras
 from keras.datasets import mnist

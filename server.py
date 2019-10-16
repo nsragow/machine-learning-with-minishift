@@ -1,3 +1,6 @@
+print("test: server")
+
+
 from flask import Flask, request
 from flask import render_template
 import keras, sys, json

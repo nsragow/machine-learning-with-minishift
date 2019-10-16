@@ -1,3 +1,5 @@
+print("test: app")
+
 import tensorflow as tf
 import os.path
 
@@ -15,4 +17,3 @@ if not os.path.exists('mnist.h5'):
 else:
     print('Model exists. Starting server')
     server.start()
-
